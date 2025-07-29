@@ -1,4 +1,4 @@
-# WatchListify
+# WatchListif
 
 Watch anime and drama online for free. 
 
